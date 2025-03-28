@@ -1,6 +1,5 @@
 # torba-retail
 
-```markdown
 # TORBA Retail Trade Assistant
 
 **TORBA Retail** is a mobile application designed to automate the workflow of sales agents for manufacturers and distributors.
@@ -78,4 +77,3 @@ The goal of the project is to establish a standard mobile sales application that
 9. **Ease of use** – no lengthy training or configuration required to get started:
    - 📌 Competitors require contract signing, lengthy implementation, and user training.
    - ✅ **Our solution is as simple as installing a mobile game:** download it quickly and start working immediately.
-```
