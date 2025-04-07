@@ -57,6 +57,7 @@ The goal of the project is to establish a standard mobile sales application that
   - Unlimited product images for better presentation.
 - **Order automation:**
   - Smart order recommendations based on historical data (previous orders and stock levels).
+  - Ability to view a customer’s previous order details for quick reference.
 - **Team performance monitoring:**
   - Supervisor module for tracking sales representatives’ productivity.
   - Option to enable the module for the entire supervisor’s team to review colleagues' performance.
