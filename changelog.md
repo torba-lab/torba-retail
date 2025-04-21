@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.1.11] – 21-04-2025
+## [1.1.12] – 21-04-2025
 
 ### Added
 - Extended functionality for test data.
