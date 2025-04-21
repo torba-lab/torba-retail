@@ -3,8 +3,6 @@
 ## [1.1.11] – 21-04-2025
 
 ### Added
-- Customer document history for a specific period.
-- Support for Thai and Turkish languages.
 - Extended functionality for test data.
 - Added details for previous customer orders (Documents tab).
 - Added "Previous Order" column in the new order creation form.
