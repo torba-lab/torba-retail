@@ -50,8 +50,8 @@ The goal of the project is to establish a standard mobile sales application that
   - Ability to select a price list when creating an order.
 - **Access to interaction history:**
   - View invoice details from previous periods.
-- **Payment tracking:**
-  - Create and manage payment records.
+- **Discount validation:**
+  - Check and warn when product discounts exceed allowed limits during order creation.
 - **Enhanced photo reporting capabilities:**
   - Unlimited photos in reports.
   - Unlimited product images for better presentation.
