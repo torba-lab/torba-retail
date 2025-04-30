@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.1.13] – 30-04-2025
+
+### Added
+- Ability to import product photos from a folder on the sales agent's mobile device.
+- Support for importing multiple photos for a single product during image import.
+- When creating a new order, the app now validates the maximum allowed discount per product and shows a warning if the entered discount exceeds the limit.
+
+### Changed
+- Clicking on a product photo (in the info panel below the grid) on the order creation form now opens a new form displaying all available photos of the selected product instead of just one.
+
+### Improved
+- UI of the form for creating in-store photo reports.
+- UI of the main screen and informational tooltips.
+
+### Reduced
+- Size of the test database.
+
 ## [1.1.12] – 21-04-2025
 
 ### Added
