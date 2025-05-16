@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.1.16] – 16-05-2025
+
+### Added
+- Added the option to subscribe to the extended TORBA Retail Pro features (Main Menu => My Subscription).
+
 ## [1.1.13] – 30-04-2025
 
 ### Added
