@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.1.18] – 10-07-2025
+## [1.1.19] – 10-07-2025
 
 ### Changed
 - Updated to comply with Google's latest policies: switched to Google Play Billing Library v7 and API level 35.
